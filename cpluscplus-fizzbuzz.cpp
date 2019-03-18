@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    for (int i = 1; i <= 30; i++) {
+    for (int i = 1; i <= 100; i++) {
 
         // i (num) divisible by 3 and 5 will 
         // print 'FizzBuzz' in place of num 
